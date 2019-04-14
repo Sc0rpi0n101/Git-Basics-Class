@@ -26,7 +26,7 @@ Your tasks for this assignment are:
 
 5) Use `git add <file> to add the file to git tracking. You can also use `git add .` to add all the files in case of more than one files. Use `git rm --cached <file>` to untrack a file and `git checkout -- <file>` to discard the changes done in a file.<br/>
 
-![git add](img/git_add.jpg)
+![git add](img/assign-1/git_add.jpg)
 
 __The `<file>` should be complete a complete filename: path/<file-name.extention>__<br/>
 
